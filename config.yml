@@ -1,4 +1,4 @@
-baseURL: "https://datatechyogi.github.io/my-blog/"
+baseURL: "http://yogesh.dev/"
 languageCode: en-us
 title: My New Hugo Site
 theme: PaperMod
