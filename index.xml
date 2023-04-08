@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://datatechyogi.github.io/my-blog/</link>
+    <link>http://yogesh.dev/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://datatechyogi.github.io/my-blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://yogesh.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resume</title>
-      <link>https://datatechyogi.github.io/my-blog/resume/</link>
+      <link>http://yogesh.dev/resume/</link>
       <pubDate>Fri, 07 Apr 2023 18:17:54 -0400</pubDate>
       
-      <guid>https://datatechyogi.github.io/my-blog/resume/</guid>
+      <guid>http://yogesh.dev/resume/</guid>
       <description>YOGESH PATIL Atlanta, GA 30041 | patilyogesh@outlook.com | linkedIn
 Principal ▪ Data Technology Leader/Engineer with more than 15 years of progressive experience and proven record to architect, design and develop data solutions of an organization including Data warehouse, Data Lakes, Data Domain APIs ▪ Deep understanding and knowledge of various next generation tools and technologies available in Big Data Domain and their application ▪ Innovator, passionate and dynamic team player ▪ Technology evangelist within organization to democratize data and tools that enable transformation to a data driven organization</description>
     </item>

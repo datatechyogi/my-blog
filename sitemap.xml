@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://datatechyogi.github.io/my-blog/resume/</loc>
+    <loc>http://yogesh.dev/resume/</loc>
     <lastmod>2023-04-07T18:17:54-04:00</lastmod>
   </url><url>
-    <loc>https://datatechyogi.github.io/my-blog/categories/</loc>
+    <loc>http://yogesh.dev/categories/</loc>
   </url><url>
-    <loc>https://datatechyogi.github.io/my-blog/</loc>
+    <loc>http://yogesh.dev/</loc>
   </url><url>
-    <loc>https://datatechyogi.github.io/my-blog/tags/</loc>
+    <loc>http://yogesh.dev/tags/</loc>
   </url>
 </urlset>
