@@ -42,8 +42,10 @@ Databases: DataStax Cassandra No SQL DB, Oracle DB, PL/SQL, SQL, MySQL, Apache D
 
 #### Professional Experience
 
+
+**LPL Financials LLC – AVP Technology Bank Trust July 2019 – Till Date**
+
 ---
-LPL Financials LLC – AVP Technology Bank Trust July 2019 – Till Date
 
 Responsible for successfully development and delivery of Bank Trust Core components in AWS cloud including data and APIs
 Accomplishments
@@ -54,23 +56,31 @@ Accomplishments
 ▪ Managed all aspects of Bank Trust core, one of the first few projects that follows all recently established architecture principles within LPL.
 ▪ Designed and lead development ETL/ELT pipelines using Apache Drill and Spark using Scala/PySpark.
 
-HashMap Inc, Sr. Big Data Developer, Jan 2019 to July 2019
+
+**HashMap Inc, Sr. Big Data Developer, Jan 2019 to July 2019**
+
+---
+
 Design, develop, deploy and test Big data Architecture using various open source tools and technologies.
 Evaluate emerging technologies for batch and real time ETL/ELT for performance tuning. Design cloud first data strategies using Snowflake, Databricks Spark and various cloud vendors computing products.
 
 #### Accomplishments
 
----
+
 ▪ Designed and Implemented complex data pipelines in Apache hive and NiFi to reduce data consumption using protobufs.
 ▪ Designed and developed data lake solutions using Hive and snowflake.
 ▪ Designed and Developed ETL/ELT pipelines using hql and PySpark and Scala with spark.
 
-Verizon Connect, Sr. Data Engineer, Jan 2013 to Dec 2018
+
+**Verizon Connect, Sr. Data Engineer, Jan 2013 to Dec 2018**
+
+---
+
 Designed robust and idempotent Data and Analytics solutions including development and testing using Informatica, Spark big data framework, Cassandra and various other NoSQL DB, open source big data tools and technologies and furnished with insights, analytics, reports and recommendations enabling effective strategic planning across all business units using Tableau, Redash, and OBIEE.
 
 #### Accomplishments
 
----
+
 
 ▪ Redesigned strategic data pipelines based on Cloud first strategy increasing efficiency and performance by 50 percent.
 ▪ Developed Metadata, Master Data Management and Advanced Visualization using Tableau for Marketing Analytics. Created Data Models for Segmentation.
@@ -82,12 +92,17 @@ Designed robust and idempotent Data and Analytics solutions including developmen
 ▪ Implemented CICD and automated build and deployment processes.
 ▪ Identified data silos and Democratized the data using notebook usage.
 
-Neumeric Technologies Corp Sr. BI/ETL Developer, Dec 2007 to Jan 2013
+
+
+**Neumeric Technologies Corp Sr. BI/ETL Developer, Dec 2007 to Jan 2013z**
+
+---
+
 Responsible for Projects Execution, Architecture, Project compliance to BI Best Practices and Design Standards as part of BI COE Team Member. Designed Server Architecture and Enterprise reporting metadata to be consumed by various visualization tools e.g. OBIEE and Tableau desktop.
 
 #### Accomplishments
 
----
+
 
 ▪ Upgraded and implemented 6 BI Application for performance enhancements.
 ▪ Migrated 2 BI Implementation to Tableau to democratize data as part of data first approach.
@@ -97,7 +112,10 @@ Responsible for Projects Execution, Architecture, Project compliance to BI Best 
 ▪ Sliced and diced data using filters and used pivot tables and charts for better presentation of most saleable product of the company.
 ▪ Created Enterprise dashboards using tableau desktop.
 
-Oracle India Pvt. Ltd, Software Engineer, July 2006 to Dec 2007
+**Oracle India Pvt. Ltd, Software Engineer, July 2006 to Dec 2007**
+
+---
+
 As part of The PeopleSoft Fusion Analytics Product team developed and designed canned ETL in Data Stage and Informatica and people soft reports in OBIEE. This challenging project of PeopleSoft EPM supported worldwide clients and implementation partners of Oracle.
 Accomplishments:
 
@@ -106,19 +124,22 @@ Accomplishments:
 ▪ Performed SQL query optimization using hints and indexes.
 ▪ Created Data Models and Tuned Custom ETL jobs in Data Stage/Informatica for Customer Requirements.
 
-Cognizant Technology Solutions, Programmer Analyst, Dec 2004 to July 2006
+**Cognizant Technology Solutions, Programmer Analyst, Dec 2004 to July 2006**
+
+---
+
 Designed and Developed Data Marts for WaMu using Informatica/Java and provided custom data packages to be used by Hyperion for reporting.
 
 #### Accomplishments
 
----
+<!-- -->
 
-▪ Analyzed the business processes and needs with the clients and technical support agents.  
-▪ Created Informatica mapping to populate the Staging Area.
-▪ Created the Mapping Documents and UDDs for the Mapping created.
-▪ Maintained the ETL code repository in VSS for audit purposes.
-▪ Tuned the long running Informatica sessions.
-▪ Involved in the writing of the SQL queries to get the required the data from the database.
+* Analyzed the business processes and needs with the clients and technical support agents.  
+* Created Informatica mapping to populate the Staging Area. 
+* Created the Mapping Documents and UDDs for the Mapping created.
+* Maintained the ETL code repository in VSS for audit purposes. 
+* Tuned the long running Informatica sessions. 
+* Involved in the writing of the SQL queries to get the required the data from the database. 
 
 #### Education
 

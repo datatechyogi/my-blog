@@ -1,4 +1,74 @@
-baseURL: "http://yogesh.dev/"
 languageCode: en-us
+baseURL: "http://yogesh.dev/"
 title: My Tech Meanderings
+paginate: 5
 theme: PaperMod
+
+#enableInlineShortcodes: true
+#mainsections: ["posts", "papermod"]
+
+#googleAnalytics: UA-123-45
+
+params:
+  env: production 
+  comments: false
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  disableScrollToTop: false
+  ShowPageNums: true
+  ShowToc: true
+    
+  profileMode:
+    enabled: false
+    title: PaperMod
+    imageUrl: "#"
+    imageTitle: my image
+    # imageWidth: 120
+    # imageHeight: 120
+    buttons:
+      - name: Archives
+        url: archives
+      - name: Tags
+        url: tags
+
+  homeInfoParams:
+    Title: "Yogi's Daily Tech Yarns"
+    Content: >
+      👋 Hello readers, and welcome to my blog!
+
+      - In this space, I will be sharing my thoughts, experiences, and insights on various topics that interest me. From technology to its adoption in day-to-day life
+
+      - I aim to create engaging and informative content that is both relatable and valuable to my readers.
+
+      - So, whether you are here to learn something new or simply looking for a good read, I hope you enjoy what I have to offer. Thank you for joining me on this journey!
+
+  socialIcons:
+    - name: twitter
+      url: "twitter.com/patilyogesh"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/yogeshpatilrk/"
+    - name: github
+      url: "https://github.com/datatechyogi"
+
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 40
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 30   
+    - identifier: Categories
+      name: Categories
+      url: /categories/
+      weight: 20    
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 10      
