@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Tech Meanderings</title>
-    <link>http://yogesh.dev/</link>
-    <description>Recent content on My Tech Meanderings</description>
+    <title>Posts on My Tech Meanderings</title>
+    <link>http://yogesh.dev/posts/</link>
+    <description>Recent content in Posts on My Tech Meanderings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Feb 2024 17:30:17 -0500</lastBuildDate>
-    <atom:link href="http://yogesh.dev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://yogesh.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My AWS CLI Setup</title>
       <link>http://yogesh.dev/posts/my-aws-cli-setup/</link>
@@ -21,14 +21,6 @@
       <pubDate>Mon, 25 Dec 2023 15:50:40 -0500</pubDate>
       <guid>http://yogesh.dev/posts/assume-aws-cli-utility/</guid>
       <description>Problem As a developer or QA engineer using AWS CLI, switching between different AWS accounts or environments can be a complicated process. However, I recently discovered an open-source utility that can make this process much easier. With this tool, switching between accounts is as simple as typing a single word. I have found this utility to be a lifesaver, particularly when debugging EKS pods with Kubectl across DEV and QA environments.</description>
-    </item>
-    <item>
-      <title>Resume</title>
-      <link>http://yogesh.dev/resume/</link>
-      <pubDate>Fri, 07 Apr 2023 18:17:54 -0400</pubDate>
-      <guid>http://yogesh.dev/resume/</guid>
-      <description>YOGESH PATIL Atlanta, GA 30041 | patilyogesh@outlook.com | linkedIn
-Principal ▪ Data Technology Leader/Engineer with more than 15 years of progressive experience and proven record to architect, design and develop data solutions of an organization including Data warehouse, Data Lakes, Data Domain APIs ▪ Deep understanding and knowledge of various next generation tools and technologies available in Big Data Domain and their application ▪ Innovator, passionate and dynamic team player ▪ Technology evangelist within organization to democratize data and tools that enable transformation to a data driven organization</description>
     </item>
   </channel>
 </rss>
