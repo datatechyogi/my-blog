@@ -6,9 +6,9 @@ tags: ["aws","cli"]
 categories: ["tech"]
 UseHugoToc: true
 cover:
-  image: "images/aws-cli-assume-cover.jpg"
+  image: images/aws-cli-assume-cover.jpg
   caption: "" # display caption under cover
-  hiddenInList: false
+  hiddenInList: true
 
 #images:
 #- ./media/av1-2019-year-in-review.png
