@@ -61,4 +61,4 @@ For Additional usage you can refer to existing documentation
 
 https://docs.commonfate.io/granted/usage/assuming-roles
 
-Now you can effortlessly switch between different AWS profiles, so you can focus on troubleshooting instead of wasting time on signing in.
+Now you can effortlessly switch between different AWS profiles, so you can focus on troubleshooting instead of wasting time on signing in
