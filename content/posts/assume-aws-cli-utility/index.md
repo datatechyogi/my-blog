@@ -7,8 +7,8 @@ categories: ["tech"]
 UseHugoToc: true
 cover:
   image: "images/aws-cli-assume-cover.jpg"
-  caption: "source" # display caption under cover
-  hiddenInList: true
+  caption: "" # display caption under cover
+  hiddenInList: false
 
 #images:
 #- ./media/av1-2019-year-in-review.png
