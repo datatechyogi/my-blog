@@ -2,34 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://yogesh.dev/posts/my-aws-cli-setup/</loc>
-    <lastmod>2024-02-19T17:30:17-05:00</lastmod>
-  </url><url>
-    <loc>http://yogesh.dev/</loc>
-    <lastmod>2024-02-19T17:30:17-05:00</lastmod>
-  </url><url>
-    <loc>http://yogesh.dev/posts/</loc>
-    <lastmod>2024-02-19T17:30:17-05:00</lastmod>
-  </url><url>
-    <loc>http://yogesh.dev/tags/aws/</loc>
-    <lastmod>2023-12-25T15:50:40-05:00</lastmod>
-  </url><url>
-    <loc>http://yogesh.dev/categories/</loc>
-    <lastmod>2023-12-25T15:50:40-05:00</lastmod>
-  </url><url>
-    <loc>http://yogesh.dev/tags/cli/</loc>
-    <lastmod>2023-12-25T15:50:40-05:00</lastmod>
-  </url><url>
-    <loc>http://yogesh.dev/posts/assume-aws-cli-utility/</loc>
-    <lastmod>2023-12-25T15:50:40-05:00</lastmod>
-  </url><url>
-    <loc>http://yogesh.dev/tags/</loc>
-    <lastmod>2023-12-25T15:50:40-05:00</lastmod>
-  </url><url>
-    <loc>http://yogesh.dev/categories/tech/</loc>
-    <lastmod>2023-12-25T15:50:40-05:00</lastmod>
-  </url><url>
     <loc>http://yogesh.dev/resume/</loc>
     <lastmod>2023-04-07T18:17:54-04:00</lastmod>
+  </url><url>
+    <loc>http://yogesh.dev/categories/</loc>
+  </url><url>
+    <loc>http://yogesh.dev/</loc>
+  </url><url>
+    <loc>http://yogesh.dev/tags/</loc>
   </url>
 </urlset>
