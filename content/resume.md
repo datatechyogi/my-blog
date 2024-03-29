@@ -12,7 +12,7 @@ Atlanta, GA 30041 | patilyogesh@outlook.com | [linkedIn](https://www.linkedin.co
 
 ---
 
-### Principal
+### Principal Data Architect\Engineering Leader
 
 ---
 
