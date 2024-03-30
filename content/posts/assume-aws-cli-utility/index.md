@@ -8,7 +8,7 @@ tags: ["aws","cli"]
 categories: ["tech"]
 UseHugoToc: true
 cover:
-  image: images/aws-cli-assume-cover.png
+##  image: images/aws-cli-assume-cover.png
   caption: "" # display caption under cover
   hiddenInList: true
 
@@ -22,6 +22,7 @@ cover:
 ## Problem
 As a developer or QA engineer when using AWS CLI, switching between different AWS accounts or environments can be a complicated process. However, I recently discovered an open-source utility that can make this process much easier. With this tool, switching between accounts is as simple as typing a single word. I have found this utility to be a lifesaver, particularly when debugging EKS pods with Kubectl across DEV and QA environments.
 
+![problem](images/aws-cli-assume-cover.png#center)
 
 ## Install
 Installation process is simply just like any other macos or windows utility or app.
