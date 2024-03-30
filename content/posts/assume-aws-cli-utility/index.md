@@ -24,7 +24,7 @@ As a developer or QA engineer when using AWS CLI, switching between different AW
 
 
 ## Install
-Install process is simply just like any other macos or windows utility 
+Installation process is simply just like any other macos or windows utility or app.
 ### Macos
 
 ![macos](images/mac.png)
