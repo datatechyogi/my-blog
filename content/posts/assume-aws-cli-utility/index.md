@@ -12,6 +12,7 @@ cover:
   caption: "" # display caption under cover
   hiddenInList: true
 
+
 #images:
 #- ./media/av1-2019-year-in-review.png
 
