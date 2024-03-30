@@ -6,7 +6,22 @@
     <description>Recent content on My Tech Meanderings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://yogesh.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smooth Sailing: Simplify AWS Environment Switching with AWS CLI</title>
+      <link>http://yogesh.dev/posts/assume-aws-cli-utility/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://yogesh.dev/posts/assume-aws-cli-utility/</guid>
+      <description>Problem As a developer or QA engineer using AWS CLI, switching between different AWS accounts or environments can be a complicated process. However, I recently discovered an open-source utility that can make this process much easier. With this tool, switching between accounts is as simple as typing a single word. I have found this utility to be a lifesaver, particularly when debugging EKS pods with Kubectl across DEV and QA environments.</description>
+    </item>
+    <item>
+      <title>My AWS CLI Setup</title>
+      <link>http://yogesh.dev/posts/my-aws-cli-setup/</link>
+      <pubDate>Mon, 19 Feb 2024 17:30:17 -0500</pubDate>
+      <guid>http://yogesh.dev/posts/my-aws-cli-setup/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Resume</title>
       <link>http://yogesh.dev/resume/</link>
