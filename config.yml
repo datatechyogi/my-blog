@@ -4,6 +4,8 @@ title: My Tech Meanderings
 paginate: 5
 theme: PaperMod
 
+
+
 #enableInlineShortcodes: true
 #mainsections: ["posts", "papermod"]
 
@@ -20,6 +22,7 @@ params:
   disableScrollToTop: false
   ShowPageNums: true
   ShowToc: true
+  enableGitInfo: true
     
   profileMode:
     enabled: false
@@ -71,4 +74,11 @@ menu:
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 10      
+      weight: 10     
+
+frontmatter:
+  lastmod:
+    - lastmod
+    - :git
+    - date
+    - publishDate      

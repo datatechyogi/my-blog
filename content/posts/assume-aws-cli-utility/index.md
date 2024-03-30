@@ -1,6 +1,8 @@
 ---
 title: "Smooth Sailing: Simplify AWS Environment Switching with AWS CLI"
-date: 2024-03-29T15:50:40-05:00
+##date: 1990-01-01T00:00:00+00:00
+lastmod: 2024-03-29T00:00:00+00:00
+weight: 1
 draft: false
 tags: ["aws","cli"]
 categories: ["tech"]
